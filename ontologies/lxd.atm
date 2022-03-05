@@ -1,0 +1,22 @@
+lxd isa ontology
+  ~ http://templescript.org/ns/lxd/
+
+lxd:object
+
+lxd:property
+
+lxd:projectInfo
+  ~ urn:x-mime:lxd/project
+
+%cancel
+
+# lxd:fingerprint  ~ http://templescript.org/ns/lxd/fingerprint
+
+# lxd:name         ~ http://templescript.org/ns/lxd/name
+
+# lxd:projects      ~ http://templescript.org/ns/lxd/projects
+
+# lxd:certificate  ~ http://templescript.org/ns/lxd/certificate
+
+# lxd:architecture ~ http://templescript.org/ns/lxd/architecture
+

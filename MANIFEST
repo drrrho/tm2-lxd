@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/TM2/lxd.pm
+lib/TM2/Virtual/lxd.pm
+MANIFEST			This list of files
+README.md
+t/manifest.t
+t/02_lxd.t
+t/04_lxd.t
+t/client.crt
+t/client.key
+
